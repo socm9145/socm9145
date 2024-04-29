@@ -1,10 +1,8 @@
 ### Hi there 👋
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=socm9145)](https://solved.ac/socm9145)
-<p>
-  <img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=socm9145">
-  <img align="center" src="http://mazandi.herokuapp.com/api?handle=socm9145&theme=cold">  
-</p>
+
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=socm9145">
 <!--
 **socm9145/socm9145** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
