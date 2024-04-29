@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <p align="center">
-  <img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=socm9145">
-  <img align="right" src="http://mazandi.herokuapp.com/api?handle=socm9145&theme=cold">  
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=socm9145">
+  <img src="http://mazandi.herokuapp.com/api?handle=socm9145&theme=cold">  
 </p>
 <!--
 **socm9145/socm9145** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
